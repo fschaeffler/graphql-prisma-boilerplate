@@ -13,7 +13,9 @@
   "jest": {
     "globalSetup": "./tests/jest/globalSetup.js",
     "globalTeardown": "./tests/jest/globalTeardown.js",
-    "setupFilesAfterEnv": ["./tests/jest/setupFilesAfterEnvJest.js"]
+    "setupFilesAfterEnv": [
+      "./tests/jest/setupFilesAfterEnvJest.js"
+    ]
   },
   "keywords": [],
   "author": "",
